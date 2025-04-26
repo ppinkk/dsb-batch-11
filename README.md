@@ -1,5 +1,5 @@
 # Data Science Bootcamp Batch 11
-Data Science Bootcamp Project
+Data Science Bootcamp Project 
 
 4 Months Intensive Bootcamp, 10 Sprint
 
@@ -11,7 +11,7 @@ Data Science Bootcamp Project
 - Statistics
 - Machine Learning
 - Website with Wordpress
-- Python
+- Python for Data Analyst
 - Dashboard
 
 ## Image 
